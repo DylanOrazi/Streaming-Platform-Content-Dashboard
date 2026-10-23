@@ -122,3 +122,5 @@ Skills Demonstrated:
 Project Purpose:
 This project was created to practice a complete analytics workflow using multiple tools. It demonstrates how data can be generated, reviewed, cleaned, exported, loaded into Power BI, and presented through interactive dashboards.
 
+To run the Power BI file, download and extract the zipped folder, double click Power BI Dashboard and then double click the Power BI file. (You must have Power BI Desktop installed in order to run the file)
+
